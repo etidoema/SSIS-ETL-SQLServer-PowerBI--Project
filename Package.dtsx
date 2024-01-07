@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/7/2024 9:39:29 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="TIDO-LAPTOP"
+  DTS:CreatorName="TIDO-LAPTOP\User"
+  DTS:DTSID="{4B58AC33-0025-4A7B-A333-B4803C7652B5}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5270.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{783B5939-770A-46B0-837C-26C7E28E486F}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
